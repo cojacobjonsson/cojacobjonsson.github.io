@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Read about my in the [first blog post](https://cojacobjonsson.github.io/Post1/).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cojacobjonsson@utexas.edu](mailto:cojacobjonsson@utexas.edu)
